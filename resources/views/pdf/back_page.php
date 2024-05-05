@@ -134,7 +134,7 @@
       
 
       <div class="w-100">
-      <img src="<?php echo public_path(); ?>/images/back.png" alt="Product 1">
+      <img src="<?php echo public_path(); ?>/images/back.webp" alt="Product 1">
         </div>
     
      
